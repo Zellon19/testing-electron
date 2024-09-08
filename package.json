@@ -1,0 +1,23 @@
+{
+  "name": "test-first-app",
+  "version": "0.0.1",
+  "description": "an electron testing app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zellon19/testing-electron.git"
+  },
+  "author": "Axl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zellon19/testing-electron/issues"
+  },
+  "homepage": "https://github.com/Zellon19/testing-electron#readme",
+  "devDependencies": {
+    "electron": "^32.0.2"
+  }
+}
